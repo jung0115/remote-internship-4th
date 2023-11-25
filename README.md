@@ -1,4 +1,4 @@
-# Remote Internship Program 4th Expert
+# Remote Internship Program 4th Expert `수료`
 ```
 🗓️ 2023.09 ~ 2023.11
 ```
